@@ -1,0 +1,114 @@
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Descubra Soluções Financeiras Inteligentes | William Porto - XP Investimentos</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+
+    body {
+      font-family: 'Roboto', sans-serif;
+      margin: 0;
+      background-color: #f5f7fa;
+      color: #1a1a1a;
+    }
+    header {
+      background-color: #ffffff;
+      padding: 3rem 2rem;
+      text-align: center;
+      border-bottom: 1px solid #e0e0e0;
+    }
+    header h1 {
+      font-size: 2.2rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+      color: #003366;
+    }
+    header p {
+      font-size: 1.2rem;
+      color: #444;
+      max-width: 700px;
+      margin: 0 auto;
+    }
+    .content {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 1.5rem;
+    }
+    .video-block, .form-block {
+      background-color: #ffffff;
+      padding: 2rem;
+      border-radius: 14px;
+      box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+      margin-bottom: 2.5rem;
+    }
+    .video-block img {
+      width: 100%;
+      border-radius: 10px;
+    }
+    .copy {
+      font-size: 1.05rem;
+      line-height: 1.7;
+      color: #333;
+    }
+    .cta-button {
+      display: inline-block;
+      background: linear-gradient(135deg, #004aad, #0073e6);
+      color: white;
+      padding: 0.85rem 1.5rem;
+      border-radius: 50px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1rem;
+      transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    .cta-button:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    }
+    .privacy {
+      text-align: center;
+      font-size: 0.9rem;
+      color: #777;
+      margin-top: 2rem;
+    }
+    iframe {
+      border: none;
+      width: 100%;
+      height: 950px;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Descubra soluções financeiras inteligentes e alcance seus sonhos</h1>
+    <p>Poucas pessoas conhecem essa estratégia. Mas quem conhece, muda de vida.</p>
+  </header>
+
+  <section class="content">
+    <div class="video-block">
+      <img src="william-video-thumbnail.jpg" alt="William Porto - Vídeo de Alavancagem Patrimonial">
+      <p style="text-align:center; margin-top: 1rem;">
+        <a href="#" class="cta-button">▶️ Assistir novamente</a>
+      </p>
+    </div>
+
+    <div class="copy">
+      <p><strong>Essa não é uma promessa vazia. É uma estratégia real.</strong></p>
+      <p>Há anos, grandes empresários brasileiros utilizam o poder da alavancagem patrimonial para crescer mais rápido. E agora, essa inteligência também pode estar no seu radar.</p>
+      <p>Aqui na XP, com responsabilidade e planejamento, ajudamos pessoas a entender e aplicar essa abordagem com segurança.</p>
+      <p>Se você quer dar o próximo passo na sua jornada financeira, vamos conversar.</p>
+    </div>
+
+    <div class="form-block">
+      <h2 style="margin-bottom: 1rem; color: #003366;">Dê o primeiro passo. Me conte um pouco sobre você.</h2>
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfzt14Fgqk1EFMZcrg1SgVa9ZJdv7Zj8fYeAD5DdqjAk7y8uQ/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
+    </div>
+
+    <div class="privacy">
+      Suas informações estão seguras. Jamais compartilharemos seus dados com terceiros.
+    </div>
+  </section>
+</body>
+</html>
